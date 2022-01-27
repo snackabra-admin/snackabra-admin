@@ -7,4 +7,4 @@
 - 📫 How to reach me ...  snackabra@gmail.com
 
 Main Docs will be here:
-https://snackabra.readthedocs.io/en/latest/
+https://snackabra.readthedocs.io
